@@ -1,3 +1,5 @@
+use std::iter::Iterator;
+
 fn main1() {
     let s = String::from("hello"); // s 进入作用域
 
