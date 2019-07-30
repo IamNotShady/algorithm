@@ -1,5 +1,5 @@
 [package]
-name = "algorithm"
+name = "hello-rust"
 version = "0.1.0"
 authors = ["IamNotShady <zhou.xiaoxiao@outlook.com>"]
 edition = "2018"
